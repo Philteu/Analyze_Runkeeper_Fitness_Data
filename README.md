@@ -8,3 +8,5 @@ Am I progressing?
 What were my best achievements?
 How do I perform compared to others?
 I exported seven years worth of my training data from Runkeeper. The data is a CSV file where each row is a single training activity. In this project, you'll create import, clean, and analyze my data to answer the above questions. You can then apply the same strategy to your training data if you wish!
+<br>
+![Jogging](image/RK_HP_Quote3_EN@2x-scaled.jpg)
