@@ -1,5 +1,5 @@
-# Analyze_Runkeeper_Fitness_Data
-Datacamp Project:
+# Datacamp Project: Analyze_Runkeeper_Fitness_Data
+
 With the explosion in fitness tracker popularity, runners all of the world are collecting data with gadgets (smartphones, watches, etc.) to keep themselves motivated. They look for answers to questions like:
 
 How fast, long, and intense was my run today?
